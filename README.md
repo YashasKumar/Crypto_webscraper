@@ -19,7 +19,7 @@ Clone the repository:
 
 git clone https://github.com/yourusername/crypto-data-scraper.git
 
-cd crypto-data-scraper
+cd Crypto_webscraper
 
 # Install required libraries:
 pip install beautifulsoup4 requests mysql-connector-python
